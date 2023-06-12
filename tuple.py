@@ -1,6 +1,4 @@
-# belajar continue 
-
-for i in range(1 , 100):
-    if i % 2 == 0:
-        continue
-    print(i)
+# tupple 
+name = ('joko','budi','andi')
+# tupple tipe data imutable(tidak bisa di ubah)
+print(name)
